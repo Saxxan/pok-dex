@@ -1,0 +1,22 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.search {
+    padding: 6px;
+    margin: 6px;
+}
+
+.pokemon {
+    width: 100px;
+    height: 100px;
+    box-shadow: 0 0 2px 2px rgb(189, 186, 186);
+    border-radius: 6px;
+    padding: 6px;
+    margin: 6px;
+}
+
+.active {
+    background-color: red;
+}
